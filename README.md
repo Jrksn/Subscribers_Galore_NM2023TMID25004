@@ -7,3 +7,5 @@ DASHBOARD-2 PUBLIC LINK:
 https://public.tableau.com/app/profile/jerikson.g/viz/NMPROJECT_16982853319470/Dashboard2?publish=yes
 STORY- PUBLIC LINK
 https://public.tableau.com/app/profile/jerikson.g/viz/NMPROJECT_16982853319470/Story1?publish=yes
+VIDEO DEMONSTRATION LINK-
+https://drive.google.com/file/d/1OpQkGaa9GLkf-e_me4zaCMOXEoXVlgo-/view?usp=drivesdk
